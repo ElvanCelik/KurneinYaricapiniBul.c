@@ -1,2 +1,2 @@
-# KurneinYaricapiniBul.c
-Kurenin yaricapini bulan C programi.
+# KureninHacminiBul.c
+Kurenin hacmini bulan C programi.
